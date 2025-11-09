@@ -25,9 +25,8 @@
 ###
 
 <div align="left">
-  <a href="kyr0nix" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="32" alt="discord logo"  />
-  </a>
+    @kyr0nix
 </div>
 
 ###
